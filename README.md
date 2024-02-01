@@ -52,13 +52,6 @@ characteristics over the specified timeframe.
 
 - **Data Visualization:** Visualized insights using charts and graphs for better comprehension.
 
-## Repository Structure
-
-- `data/`: Contains the raw and processed credit risk loan datasets.
-- `notebooks/`: Jupyter notebooks for data analysis and modeling related to credit risk in loans.
-- `src/`: Python source code for the credit risk loan project.
-- `docs/`: Documentation files, including this README.
-
 ## Usage
 
 1. Clone the repository:
